@@ -1,13 +1,5 @@
 # Molecular-Docking
 
-#Tools: Schrödinger AutoDock 
-
-#Deliverables: Docking scores Interaction maps 
-
-#Time: 2–5 days  
-
-#Price: $300–1000
-
 🧬 PDE4B Structure-Based Drug Repurposing Workflow
 
 This project performs computational drug repurposing against PDE4B using FDA-approved compounds.
